@@ -1,0 +1,13 @@
+{
+  "name": "Portfolio Studio",
+  "shortName": "PortfolioStudio",
+  "subtitle": "Build your portfolio in minute",
+  "description": "Create a dev portfolio website. Customize bio, projects, skills, and socials. Export code to deploy anywhere.",
+  "shortDescription": "Build and export your dev portfolio",
+  "primaryCategory": "utility",
+  "tags": ["portfolio", "developer", "website", "builder", "code"],
+  "splashBackgroundColor": "#0a0a0f",
+  "tagline": "Your portfolio, your code",
+  "requiredChains": ["eip155:8453", "eip155:1"],
+  "shareButtonTitle": "Build Your Portfolio"
+}
